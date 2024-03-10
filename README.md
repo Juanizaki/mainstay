@@ -1,2 +1,2 @@
-# main-stay
+# Mainstay
 Adventure RPG Survival ios game.
